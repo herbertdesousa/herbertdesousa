@@ -3,7 +3,6 @@
 <a href="https://linkedin.com/in/herbert de sousa vilela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herbert de sousa vilela" height="30" width="40" /></a>
 <a href="https://medium.com/@sousaherbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sousaherbert" height="30" width="40" /></a>
 <a href="https://www.notion.so/portfolio-hbt/Home-52915f32dba54f8f815365ad9baea791?pvs=4" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_fH1qG1a-fhRUSzhzQ153ylhL65pCsBvfwQ9QxmImGg&s" alt="@sousaherbert" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/herbert-de-sousa-vilela-311638230/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkNvmW6hjy2OWs-d-7ZzmHLhqtycFAv-V4Qyob6WUYqA&s" alt="@sousaherbert" height="30" width="30" /></a>
 
 <br />
 
