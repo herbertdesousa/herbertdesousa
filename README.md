@@ -6,7 +6,7 @@
 
 <br />
 
-<details open>
+<details>
 <summary>My Journey</summary>
 
 My love for code begin when I was a little, I used to spent half of my day playing on my PC and I remember how I was fascinated by how games work, try to understand what happens when the player hits a coin and how can it trigger increases the score. Every possibility put my mind to work and made me want to learn more about under the table, that’s how I found Unity and I met C#.
@@ -14,7 +14,7 @@ My love for code begin when I was a little, I used to spent half of my day playi
 At 15 I got an opportunity to work as Trainee, I was so excited because it was my first job. I’ve learned new programming skills and then I got to know PHP, JavaScript and really Dev World
 </details>
 
-<details>
+<details open>
 <summary>Minha História</summary>
 
 Minha paixão pela programação começou desde pequeno, costumava ficar o dia inteiro jogando e abismado em como os jogos funcionavam, olhava para um Player pegando uma moeda e como aquilo ativava, de certa forma, o placar dele. Todo aquele funcionamento me fazia pensar e querer entender o que acontecia por baixo dos panos, foi então que conheci o C#.
