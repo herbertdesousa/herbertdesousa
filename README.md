@@ -1,6 +1,6 @@
 <h2>Hi, I'm Herbert de Sousa Vilela</h2>
 
-<a href="https://linkedin.com/in/herbert de sousa vilela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herbert de sousa vilela" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/herbert-de-sousa-vilela-311638230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herbert de sousa vilela" height="30" width="40" /></a>
 <a href="https://medium.com/@sousaherbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sousaherbert" height="30" width="40" /></a>
 
 <br />
