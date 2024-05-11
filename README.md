@@ -68,4 +68,3 @@ My passion for code began when I was a kid, I used to spend half of my day playi
 * Node.js
 * Firebase
 * Frameworks - NestJs / NextJs
-* Libs - Tailwind
