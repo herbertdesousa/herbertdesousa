@@ -1,24 +1,72 @@
-<a href="https://www.linkedin.com/in/herbert-de-sousa-vilela-311638230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herbert de sousa vilela" height="30" width="40" /></a>
-<a href="https://medium.com/@sousaherbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sousaherbert" height="30" width="40" /></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/herbert-de-sousa-vilela-311638230" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="64" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="sousaherbert138@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="64" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://whatsa.me/5511952875335" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="64" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://medium.com/@sousaherbert" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="64" height="40" alt="medium logo"  />
+  </a>
+</div>
 
 <br />
 
-<details>
-<summary>My Journey</summary>
-
-My love for code begin when I was a little, I used to spent half of my day playing on my PC and I remember how I was fascinated by how games work, try to understand what happens when the player hits a coin and how can it trigger increases the score. Every possibility put my mind to work and made me want to learn more about under the table, that’s how I found Unity and I met C#.
-
-At 15 I got an opportunity to work as Trainee, I was so excited because it was my first job. I’ve learned new programming skills and then I got to know PHP, JavaScript and really Dev World
-</details>
-
-<details open>
-<summary>Minha História</summary>
-
-Minha paixão pela programação começou desde pequeno, costumava ficar o dia inteiro jogando e abismado em como os jogos funcionavam, olhava para um Player pegando uma moeda e como aquilo ativava, de certa forma, o placar dele. Todo aquele funcionamento me fazia pensar e querer entender o que acontecia por baixo dos panos, foi então que conheci o C#.
-
-Já aos 15 anos tive oportunidade de trabalhar como Jovem Aprendiz/Trainee, meu primeiro emprego, aprendi meus conhecimentos base de proogramação e o tão sonhado JavaScript e o mundo Dev
-</details>
+<p align="left">Software Engineer
+My passion for code began when I was a kid, I used to spend half of my day playing on my old computer, fascinated with game mechanics, then I learned Unity and C#. After several years I got an opportunity at 15 years old to work as Junior Developer with React, React Native, PHP, Typescript and much more. Years later I kept deeping diving to be a FullStack, and currently, Software Engineer using Kotlin and studying Go, C.
 
 <br />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=herbertdesousa&show_icons=true&locale=en&layout=compact" alt="herbertdesousa" /></p>
+
+<br />
+
+<h3 align="left">Minhas tecnologias:</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin logo"  height="40" />
+  <img width="24" />     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c logo"  height="40" />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript logo" height="40" />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="go logo"  height="40" />
+  <img width="24" />       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react logo" height="40" />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="android logo" height="40" />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs logo"  height="40" />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgres logo" height="40" />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb logo" height="40" />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="firebase logo" height="40" />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs logo" height="40" />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="compose logo" height="40" />
+</div>
+
+###
+
+* Kotlin
+* C
+* Go
+* Typescript
+* React e React Native
+* Android
+* Jetpack Compose
+* SQL - MSSQL / Sql Server / Postgres / MySQL
+* NoSQL - MongoDB
+* Protocols & Network - Socket (with Socket.IO) / HTTP / Peer-To-Peer (with WebRTC)
+* Node.js
+* Firebase
+* Frameworks - NestJs / NextJs
+* Libs - Tailwind
